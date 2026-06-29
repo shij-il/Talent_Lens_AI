@@ -1,4 +1,4 @@
-# AI Resume Screener 🤖
+# Talent_lens_AI 🤖
 
 An AI-powered recruitment assistant that automatically screens, scores, and ranks candidates against job requirements.
 
